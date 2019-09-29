@@ -3,25 +3,29 @@ layout: 个人简介
 title:  "个人简介"
 date:   2019-09-29 18:12:14 +0800
 categories: jekyll update
+
 ---
 ###个人资料
-	> 性别：男
-	> 出生日期：1990年09月01日
-	> 学历：本科
-	> 现居地：山东省青岛市市北区
-	> 户籍所在地：山东省德州市
-	> 毕业院校： 山东理工大学 
-	> 专业：计算机科学与技术专业
-	
+
+	* 性别：男
+	* 出生日期：1990年09月01日
+	* 学历：本科
+	* 现居地：山东省青岛市市北区
+	* 户籍所在地：山东省德州市
+	* 毕业院校： 山东理工大学 
+	* 专业：计算机科学与技术专业
 	* [个人邮箱]: gong.xinhai@163.com
+
 ---
 ###求职意向
-	> 期望工作地区：青岛
-	> 期望月薪：13k/月（税后）
-	> 目前状况：对现有工作还算满意，如有更好的工作机会可以考虑（到岗时间另议）
-	> 期望工作性质：全职
-	> 期望从事职业：手机软件开发工程师、移动互联网开发、游戏设计/开发
-	> 期望从事行业：手机软件、游戏开发
+
+	* 期望工作地区：青岛
+	* 期望月薪：13k/月（税后）
+	* 目前状况：对现有工作还算满意，如有更好的工作机会可以考虑（到岗时间另议）
+	* 期望工作性质：全职
+	* 期望从事职业：手机软件开发工程师、移动互联网开发、游戏设计/开发
+	* 期望从事行业：手机软件、游戏开发
+
 ---
 ###专业技能
 	1. 精通cocos2d-x跨平台开发引擎， 精通C/C++/Object-C/lua编程语言，有良好的编程习惯 ：精通 ：
@@ -37,9 +41,9 @@ categories: jekyll update
 	11. 对OpenGL有一定的了解 ：良好 ：
 	12. 熟悉各个不同版本IOS/Android特点，对机型适配、UI布局优化有一定的经验 ：熟练 ：
 
-
 ---
 ###自我评价
+
 	1. 六年cocos2dx游戏开发经验，热爱游戏编程，并有6个上线项目；
 	2. 热爱前端游戏开发工作；
 	3. 是一名资深游戏玩家，对游戏开发有深刻的理解；
@@ -47,6 +51,7 @@ categories: jekyll update
 
 ---
 ###工作经历
+
 1. 2015年04月 - 至今
 	* 青岛蓝飞互娱科技有限公司
 	* 前端开发工程师
@@ -103,20 +108,6 @@ categories: jekyll update
 			2. 单局的任务系统（这个上线前没有，是我独立完成的）
 			3. 独立主体游戏之外的一个系统：宫爆村；（这个也是独立完成的）
 			~~~
-
-
-
-
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 
 [比特小队下载连接]: https://www.taptap.com/app/23452 
