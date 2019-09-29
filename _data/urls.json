@@ -1,0 +1,34 @@
+[
+  {
+    "text": "主页",
+    "url": "/about/",
+    "icon": "fa-home"
+  },
+  {
+    "text": "文章",
+    "url": "/",
+    "icon": "fa-comments",
+    "layout": "post"
+  },
+  {
+    "text": "项目",
+    "url": "/projects",
+    "icon": "fa-desktop"
+  },
+  {
+    "text": "个人简介",
+    "url": "/个人简介/",
+    "icon": "fa-graduation-cap"
+  },
+  {
+    "text": "Github",
+    "url": "https://github.com/Gongxh0901",
+    "icon": "fa-github"
+  },
+  {
+    "text": "XML Feed",
+    "url": "/feed.xml",
+    "icon": "fa-feed",
+    "target": _blank
+  }
+]

@@ -1,0 +1,28 @@
+title: 小小程序员
+description: 个人博客
+author: Gongxh
+logo: /Gongxh0901.github.io/static/img/avatar.png
+github: https://github.com/Gongxh0901
+about: 如果你花费过多的时间去想某件事，那么你将永远也不会完成它
+
+baseurl: "https://Gongxh0901.github.io"
+url: "https://Gongxh0901.github.io"
+
+allowsearch: false
+
+disqus_shortname: aboutashu
+google_analytics: UA-72862926-1
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
