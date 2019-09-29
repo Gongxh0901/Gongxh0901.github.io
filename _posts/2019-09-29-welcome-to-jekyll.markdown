@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: 简介
+title:  "个人简介"
 date:   2019-09-29 18:12:14 +0800
 categories: jekyll update
 ---
