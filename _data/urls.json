@@ -1,28 +1,28 @@
 [
   {
-    "text": "Home",
+    "text": "主页",
     "url": "/",
     "icon": "fa-home",
-    "layout": "post"
+    "layout": "/about/"
   },
   {
-    "text": "About",
-    "url": "/about/",
+    "text": "文章",
+    "url": "post",
     "icon": "fa-comments"
   },
   {
-    "text": "Projects",
+    "text": "项目",
     "url": "/projects",
     "icon": "fa-desktop"
   },
   {
-    "text": "Resume",
+    "text": "个人资料",
     "url": "/#",
-    "icon": "fa-graduation-cap",
+    "icon": "fa-graduation-cap"
   },
   {
     "text": "Github",
-    "url": "/#",
+    "url": "https://github.com/Gongxh0901",
     "icon": "fa-github"
   },
   {

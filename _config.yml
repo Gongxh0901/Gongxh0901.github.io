@@ -1,14 +1,14 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
+title: 小小程序员
+description: 个人博客
+author: Gongxh
+logo: http://image.baidu.com/search/detail?ct=503316480&z=0&ipn=false&word=%E5%A4%B4%E5%83%8F%20%E5%8D%A1%E9%80%9A%E5%8A%A8%E6%BC%AB%20%E9%98%BF%E7%8B%B8&step_word=&hs=0&pn=2&spn=0&di=3960&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=3578278875%2C1192548791&os=968180790%2C2842268163&simid=4248601144%2C635434498&adpicid=0&lpn=0&ln=3170&fr=&fmq=1569811170607_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=head&bdtype=0&oriquery=%E5%A4%B4%E5%83%8F&objurl=http%3A%2F%2Fi10.topitme.com%2Fo045%2F1004575946682967a5.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bp5rtp_z%26e3B4jAzdH3Fwsk74AzdH3F8am8n0mAzdH3Ftpj4AzdH3Fnmln0cl&gsm=&rpstart=0&rpnum=0&islist=&querylist=&force=undefined
 github: https://github.com/codeasashu
 about: Freelance developer
 
 baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
 url: "https://codeasashu.github.io/hcz-jekyll-blog"
 
-allowsearch: true
+allowsearch: false
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
