@@ -1,22 +1,14 @@
-## HCZ Material theme
-
+## Gongxh的个人博客
 This is a simple personal material theme, best suited for personal authors, programmars, bloggers. 
 
-### Demo
-* [https://codeasashu.github.io/hcz-jekyll-blog](https://codeasashu.github.io/hcz-jekyll-blog/)
+### 主页
+* [https://gongxh0901.github.io](https://gongxh0901.github.io)
 
-#### Feature
+#### 内容列表
 
-* Sitemap and XML Feed
-* Site Search 
-* Projects and tags
-* Paginations in homepage
-* Posts under category
-* Related Posts
-* Highlight pre
-* Next & Previous Post
-* Disqus comment
+* [cocos2dx-lua集成fmode音效引擎](https://gongxh0901.github.io/cocos/2019/09/30/Cocos-FMOD.html)
+* [个人资料](https://gongxh0901.github.io/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/)
 
-#### Screenshot
+#### 主页截图
 
-![Screenshot Home Page](https://raw.githubusercontent.com/ashutosh2k12/jekyllthemes/master/thumbnails/hcz-material.png  "Screenshot Home Page")
+![首页](https://github.com/Gongxh0901/Gongxh0901.github.io/blob/master/assets/screenshot.png)
