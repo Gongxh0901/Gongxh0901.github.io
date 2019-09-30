@@ -16,8 +16,8 @@
     "icon": "fa-desktop"
   },
   {
-    "text": "个人资料",
-    "url": "/#",
+    "text": "个人简介",
+    "url": "/个人简介/",
     "icon": "fa-graduation-cap"
   },
   {
