@@ -1,14 +1,14 @@
 [
   {
     "text": "主页",
-    "url": "/",
-    "icon": "fa-home",
-    "layout": "/about/"
+    "url": "/about/",
+    "icon": "fa-home"
   },
   {
     "text": "文章",
-    "url": "post",
-    "icon": "fa-comments"
+    "url": "/",
+    "icon": "fa-comments",
+    "layout": "post"
   },
   {
     "text": "项目",
