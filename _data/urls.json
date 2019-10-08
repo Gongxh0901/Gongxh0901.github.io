@@ -1,7 +1,7 @@
 [
   {
     "text": "主页",
-    "url": "/about/",
+    "url": "/page_main/",
     "icon": "fa-home"
   },
   {
@@ -12,7 +12,7 @@
   },
   {
     "text": "项目",
-    "url": "/projects",
+    "url": "/page_projects/",
     "icon": "fa-desktop"
   },
   {

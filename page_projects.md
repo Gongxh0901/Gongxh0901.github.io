@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Projects
-permalink: /projects/
+permalink: /page_projects/
 ---
 
 项目列表
